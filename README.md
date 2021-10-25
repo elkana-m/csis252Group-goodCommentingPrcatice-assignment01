@@ -1,1 +1,1 @@
-# csis252Group-goodCommentingPrcatice-assignment01
+# csis252Group-goodCommentingPracatice-assignment01
